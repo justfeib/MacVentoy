@@ -1,0 +1,19 @@
+# Build artifacts
+.build/
+*.app
+*.app.zip
+*.zip
+*.dSYM/
+DerivedData/
+*.bundle
+
+# SwiftPM
+Package.resolved
+
+# macOS system files
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcworkspace
+*.xcodeproj
